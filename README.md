@@ -1,2 +1,8 @@
-# CS 310H
-Repo for CS310H Unreal Engine projects in Fall '26
+# Homework 1
+Madelyn Cockrell
+
+## Demo Video: 
+https://youtu.be/GouptrAYU4I
+
+## Project Files:
+https://github.com/madelyncockrell/HW1
